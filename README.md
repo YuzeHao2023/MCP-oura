@@ -6,6 +6,15 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 
 A [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) server that provides access to the Oura API. It allows language models to query sleep, readiness, and resilience data from Oura API.
+## All Documents
+> Call for translators!
+
+**Read our documentation in the following languages:**
+
+| Language                | Link                                                                 |
+|-------------------------|---------------------------------------------------------------------|
+| English                 | [English](https://github.com/YuzeHao2023/MCP-oura/README.md)        |
+| 中文                    | [中文](https://github.com/YuzeHao2023/MCP-oura/README_zh_CN.md)      |
 
 ## Available Tools
 
