@@ -12,7 +12,7 @@ A [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) s
 </a>
 
 ## All Documents
-> Call for translators!
+> Call for translators! [We're looking for translators](https://github.com/YuzeHao2023/MCP-oura/issues/5) to help translate this spec for everyone!
 
 **Read our documentation in the following languages:**
 
