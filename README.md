@@ -7,6 +7,10 @@
 
 A [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) server that provides access to the Oura API. It allows language models to query sleep, readiness, and resilience data from Oura API.
 
+<a href="https://glama.ai/mcp/servers/@YuzeHao2023/MCP-oura">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@YuzeHao2023/MCP-oura/badge" alt="Oura Server MCP server" />
+</a>
+
 ## Available Tools
 
 The server exposes the following tools:
