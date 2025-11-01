@@ -77,7 +77,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 ## Maintainer
-
+<div align="center">
+  <h4 align="center">
+    Maintainers oversee the project's maintenance, decision-making, and long-term development.
+  </h4>
+  <!-- 替换以下占位符为实际维护者信息 -->
+  <a href="https://github.com/YuzeHao2023" target="_blank">
+    <img src="https://github.com/YuzeHao2023.png" width="100" height="100" style="border-radius: 50%; margin: 0 10px; object-fit: cover;" alt="YuzeHao2023" />
+  </a>
+  <a href="https://github.com/dvlan26" target="_blank">
+    <img src="https://github.com/dvlan26.png" width="100" height="100" style="border-radius: 50%; margin: 0 10px; object-fit: cover;" alt="dvlan26" />
+  </a>
+  <!-- 如需添加更多维护者，复制上方a标签块并修改信息即可 -->
+</div>
 
 ## Core Contributors
 <div align="center">
