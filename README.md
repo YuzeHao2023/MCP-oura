@@ -73,3 +73,12 @@ The server provides human-readable error messages for common issues:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## Maintainer
+
+
+## Core Contributors
+[![Contributors](https://github.com/YuzeHao2023/MCP-oura)](https://github.com/YuzeHao2023/MCP-oura/graphs/contributors)
+
