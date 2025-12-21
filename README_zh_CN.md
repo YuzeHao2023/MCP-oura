@@ -1,6 +1,6 @@
 # Oura MCP 服务器
 
-简体中文 | [English](./README.md)
+简体中文 | [English](./README.md) | 한국어
 
 ![Python Package](https://github.com/tomekkorbak/oura-mcp-server/workflows/Python%20Package/badge.svg)
 [![PyPI version](https://badge.fury.io/py/oura-mcp-server.svg)](https://badge.fury.io/py/oura-mcp-server)
@@ -23,6 +23,7 @@
 | ------- | --------------------------------------------------------------- |
 | English | [English](https://github.com/YuzeHao2023/MCP-oura/README.md)    |
 | 中文    | [中文](https://github.com/YuzeHao2023/MCP-oura/README_zh_CN.md) |
+| 한국어  | [한국어](https://github.com/YuzeHao2023/MCP-oura/README_ko.md) |
 
 ## 可用工具
 
