@@ -1,4 +1,3 @@
-````markdown
 # Oura MCP 서버
 
 [简体中文](./README_zh_CN.md) | English | 한국어
@@ -135,4 +134,4 @@
   </a>
 </div>
 
-````
+
