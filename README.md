@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yuzehao2023-mcp-oura-badge.png)](https://mseep.ai/app/yuzehao2023-mcp-oura)
+
 # Oura MCP Server
 
 [简体中文](./README_zh_CN.md) | English | 한국어
